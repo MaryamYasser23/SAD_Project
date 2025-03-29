@@ -16,4 +16,4 @@ The PDF document includes:
 - **Detailed Use Case Analysis (Order Processing, Stock Management, Login, etc.)**  
 - **System Interfaces for Customers, Pharmacists, and Suppliers**  
 
-**For complete details, refer to the attached PDF document.**
+📄 **For complete details, refer to the attached PDF document.**
